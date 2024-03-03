@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConstraintLayoutLab</string>
+    <string name="title1">Información propietario</string>
+    <string name="title2">Detalles de carga</string>
+    <string name="title3">Información de origen</string>
+    <string name="title4">Información de destino</string>
+    <string name="title5">Adicionales</string>
+    <string name="title6">Precio</string>
+    <string name="send_button">Publicar mi solicitud de carga</string>
+</resources>
